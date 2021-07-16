@@ -1,2 +1,2 @@
-language = "bash"
+language = "html,css,js"
 run = "git commit" 
